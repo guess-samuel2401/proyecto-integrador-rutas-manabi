@@ -1,0 +1,23 @@
+[
+    {"id": 1, "nombre": "Playa Murciélago", "canton": "Manta", "categoria": "playa", "descripcion": "Playa urbana de Manta con malecón, restaurantes y servicios turísticos.", "lat": -0.94417, "lon": -80.7327},
+    {"id": 2, "nombre": "Museo Centro Cultural Manta", "canton": "Manta", "categoria": "cultural", "descripcion": "Museo con piezas arqueológicas de la cultura Manteña y muestras de arte.", "lat": -0.94188, "lon": -80.73041},
+    {"id": 3, "nombre": "Playa Santa Marianita", "canton": "Manta", "categoria": "aventura", "descripcion": "Playa conocida por la práctica de kitesurf, al suroeste de Manta.", "lat": -0.98029, "lon": -80.84269},
+    {"id": 4, "nombre": "Playa San Lorenzo", "canton": "Manta", "categoria": "playa", "descripcion": "Playa tranquila rodeada de bosque seco, cerca del Refugio de Vida Silvestre Pacoche.", "lat": -1.06398, "lon": -80.90704},
+    {"id": 5, "nombre": "Ciudad Alfaro", "canton": "Montecristi", "categoria": "cultural", "descripcion": "Centro cívico y museo dedicado a Eloy Alfaro, con vista a la ciudad de Montecristi.", "lat": -1.05488, "lon": -80.66313},
+    {"id": 6, "nombre": "Santuario de la Virgen de Monserrate", "canton": "Montecristi", "categoria": "cultural", "descripcion": "Basílica del centro de Montecristi, ciudad conocida por los sombreros de paja toquilla.", "lat": -1.05104, "lon": -80.6608},
+    {"id": 7, "nombre": "Parque Las Vegas", "canton": "Portoviejo", "categoria": "cultural", "descripcion": "Parque urbano junto al río Portoviejo, con espacios recreativos y ferias.", "lat": -1.06061, "lon": -80.44899},
+    {"id": 8, "nombre": "Jardín Botánico de Portoviejo", "canton": "Portoviejo", "categoria": "naturaleza", "descripcion": "Jardín botánico con senderos y especies de bosque seco tropical.", "lat": -1.0384, "lon": -80.46055},
+    {"id": 9, "nombre": "Playa de Crucita", "canton": "Portoviejo", "categoria": "aventura", "descripcion": "Playa conocida por el parapente y otros deportes de viento.", "lat": -0.8711, "lon": -80.5405},
+    {"id": 10, "nombre": "Dulces de Rocafuerte", "canton": "Rocafuerte", "categoria": "gastronómico", "descripcion": "Rocafuerte es conocido por sus dulces tradicionales manabitas.", "lat": -0.92427, "lon": -80.45002},
+    {"id": 11, "nombre": "Playa San Clemente", "canton": "Sucre", "categoria": "playa", "descripcion": "Playa amplia de aguas tranquilas con oferta de mariscos.", "lat": -0.74591, "lon": -80.50845},
+    {"id": 12, "nombre": "Mirador La Cruz", "canton": "Sucre", "categoria": "naturaleza", "descripcion": "Mirador sobre Bahía de Caráquez con vista a la desembocadura del río Chone.", "lat": -0.6, "lon": -80.422},
+    {"id": 13, "nombre": "Isla Corazón", "canton": "San Vicente", "categoria": "naturaleza", "descripcion": "Isla de manglar en el estuario del río Chone, con recorridos en canoa.", "lat": -0.64883, "lon": -80.36075},
+    {"id": 14, "nombre": "Playa de Canoa", "canton": "San Vicente", "categoria": "aventura", "descripcion": "Playa conocida por el surf y el parapente.", "lat": -0.46255, "lon": -80.45584},
+    {"id": 15, "nombre": "Playa de Pedernales", "canton": "Pedernales", "categoria": "playa", "descripcion": "Playa extensa en el norte de Manabí, cerca de la línea equinoccial.", "lat": 0.071, "lon": -80.056},
+    {"id": 16, "nombre": "Humedal La Segua", "canton": "Chone", "categoria": "naturaleza", "descripcion": "Humedal con gran diversidad de aves acuáticas.", "lat": -0.7031, "lon": -80.19317},
+    {"id": 17, "nombre": "Represa La Esperanza", "canton": "Bolívar", "categoria": "aventura", "descripcion": "Embalse cercano a Calceta, usado para paseos en bote y pesca deportiva.", "lat": -0.88888, "lon": -80.07673},
+    {"id": 18, "nombre": "Playa de Puerto Cayo", "canton": "Jipijapa", "categoria": "playa", "descripcion": "Playa de pescadores, punto de observación de ballenas en temporada.", "lat": -1.35119, "lon": -80.73791},
+    {"id": 19, "nombre": "Comuna Agua Blanca", "canton": "Puerto López", "categoria": "cultural", "descripcion": "Comunidad dentro del Parque Nacional Machalilla, con museo arqueológico y laguna de azufre.", "lat": -1.53056, "lon": -80.74076},
+    {"id": 20, "nombre": "Playa Los Frailes", "canton": "Puerto López", "categoria": "playa", "descripcion": "Playa protegida dentro del Parque Nacional Machalilla.", "lat": -1.48867, "lon": -80.77353},
+    {"id": 21, "nombre": "Malecón de Puerto López", "canton": "Puerto López", "categoria": "gastronómico", "descripcion": "Malecón con restaurantes de mariscos y salida de tours de avistamiento de ballenas.", "lat": -1.55905, "lon": -80.81127}
+]

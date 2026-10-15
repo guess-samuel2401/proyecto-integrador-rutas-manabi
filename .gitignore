@@ -1,0 +1,10 @@
+# Archivos generados al compilar (el .exe se publica en Releases)
+dist/
+build/
+*.spec
+__pycache__/
+
+# Datos privados de cada instalación: contraseña del administrador e historial de rutas
+datos/config.json
+datos/historial.json
+datos/*.tmp
