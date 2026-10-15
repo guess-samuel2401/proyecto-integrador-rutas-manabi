@@ -29,6 +29,8 @@ El programa crea una carpeta `datos/` junto al `.exe`, donde guarda los lugares,
 
 Requiere Python 3.10 o superior (Tkinter viene incluido en el instalador de Windows).
 
+En Windows basta con hacer doble clic en `ejecutar_codigo.bat`. Desde una terminal:
+
 ```
 python main.py                       # abrir el programa
 python -m unittest pruebas -v        # pruebas de los criterios de aceptación
