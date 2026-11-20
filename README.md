@@ -1,4 +1,16 @@
-# Rutas turísticas de Manabí
+<div align="center">
+
+# 🗺️ Rutas turísticas de Manabí
+
+**Planificador de rutas turísticas en Manabí, Ecuador: ruta más corta, rápida o barata con Dijkstra, sobre un mapa de OpenStreetMap y sin internet.**
+
+[![Release](https://img.shields.io/github/v/release/guess-samuel2401/proyecto-integrador-rutas-manabi?style=flat-square&label=versi%C3%B3n&color=0b7285)](https://github.com/guess-samuel2401/proyecto-integrador-rutas-manabi/releases/latest)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-4B8BBE?style=flat-square)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-ODbL-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+![algoritmo](https://img.shields.io/badge/algoritmo-Dijkstra-6f42c1?style=flat-square)
+
+</div>
 
 Aplicación de escritorio para consultar lugares turísticos de la provincia de Manabí (Ecuador) y calcular la ruta de menor distancia, tiempo o costo entre dos de ellos. Funciona **sin conexión a internet**.
 
